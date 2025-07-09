@@ -144,7 +144,7 @@
       <Text>Paint And Chrome * DLC *</Text>
       <Value>mirror.chrome_logo</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description />
       <Group>Main Mirrors</Group>
       <Image />
@@ -158,7 +158,7 @@
       <Text>Chrome Luxury * DLC *</Text>
       <Value>mirror.chrom_spec</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description />
       <Group>Main Mirrors</Group>
       <Image />
@@ -169,31 +169,52 @@
       <Description />
       <Group>Main Mirrors</Group>
       <Image />
+      <Text>Paint, LED (Aero) * DLC *</Text>
+      <Value>mirror.chrome_led_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Main Mirrors</Group>
+      <Image />
+      <Text>Paint And Chrome (Aero) * DLC *</Text>
+      <Value>mirror.chrom_logo_a</Value>
+    </ListItem>
+    <ListItem>
+      <Description />
+      <Group>Main Mirrors</Group>
+      <Image />
       <Text>Camera (Aero)</Text>
       <Value>mirror.cam_digi_a</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
+      <Description />
+      <Group>Main Mirrors</Group>
+      <Image />
+      <Text>Chrome Luxury (Aero)</Text>
+      <Value>mirror.chrom_spec_a</Value>
+    </ListItem></ListItem>
+    <ListItem>
       <Description />
       <Group>Corner Deflectors</Group>
       <Image />
       <Text>Paint * DLC *</Text>
       <Value>cor_def.paint</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description />
       <Group>Windshield Frame</Group>
       <Image />
       <Text>Paint * DLC *</Text>
       <Value>f_wnd_frame.paint</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description />
       <Group>Windshield Frame</Group>
       <Image />
       <Text>Paint Aero * DLC *</Text>
       <Value>f_wnd_frame.paint_a</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description />
       <Group>Front Badge Plate</Group>
       <Image />
@@ -207,21 +228,21 @@
       <Text>Chrome * DLC *</Text>
       <Value>f_intake_bar.chrome</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description />
       <Group>Front Badge Plate</Group>
       <Image />
       <Text>Paint (Aero) * DLC *</Text>
       <Value>f_intake_bar.exc_aero</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description />
       <Group>Front Badge Plate</Group>
       <Image />
       <Text>Paint II (Aero) * DLC *</Text>
       <Value>f_intake_bar.paint_aero</Value>
     </ListItem>
-	<ListItem>
+    <ListItem>
       <Description />
       <Group>Front Badge Plate</Group>
       <Image />
